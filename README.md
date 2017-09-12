@@ -6,6 +6,7 @@ Pythonの練習も兼ねて機械学習を実践
 ### 開発環境
 - VSCode + Python Extension
     - https://marketplace.visualstudio.com/items?itemName=donjayamanne.python
+- Jupyter
 
 ### Pythonおよびパッケージ
 - Python2.7.13 (Anaconda)
