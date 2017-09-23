@@ -15,3 +15,5 @@ Pythonの練習も兼ねて機械学習を実践
 - SciPy 0.19.2
 
 ## Chapter1 Pythonで始める機械学習
+
+## Chapter2 実例を対象とした分類法入門
